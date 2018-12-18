@@ -1,3 +1,3 @@
 # pr-test
 
-This is my ne repository
+This is my new repository
